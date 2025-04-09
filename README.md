@@ -12,7 +12,7 @@ Este é um aplicativo React criado com **Vite** que exibe uma lista de vídeos i
 ## 🚀 Deploy
 
 Acesse a versão online aqui (exemplo):
-[https://seu-usuario.github.io/youtube-video-list](https://seu-usuario.github.io/youtube-video-list)
+[https://dieghonm.github.io/doisnadanca/](https://dieghonm.github.io/doisnadanca/)
 
 ## 🔧 Tecnologias
 
@@ -25,7 +25,7 @@ Acesse a versão online aqui (exemplo):
 1. Clone o repositório:
 
    ```bash
-   git clone https://github.com/seu-usuario/youtube-video-list.git
+   git clone https://github.com/dieghonm/youtube-video-list.git
    cd youtube-video-list
    ```
 
